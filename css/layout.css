@@ -215,7 +215,7 @@ ul#nav li a:active { background-color: transparent !important; }
 ul#nav li.current a { color: #F06000; }
 
 .banner__content {
-  padding: 5px;
+  padding: 2px;
   display: flex;
   align-items: center;
 }
