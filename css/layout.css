@@ -305,7 +305,8 @@ ul#nav li.current a { color: #F06000; }
 }
 .about-content .info-list li span {
   display: block;
-  font-family: 'opensans-bold', sans-serif;
+  font-family: 'opensans', sans-serif;
+  color: #ffffff;
   /*color: #888888;*/
   font-size: 1.5rem;
   line-height: 1;
