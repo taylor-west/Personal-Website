@@ -2,6 +2,7 @@
 
 
 Edited by Taylor West
+
 Based off of a template by Sunwoo Kang, which merged CEEVEE with KARDS from Styleshouts
 
 SOURCES AND CREDITS:
