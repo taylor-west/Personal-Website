@@ -1,6 +1,3 @@
-# Personal Website Resume for Computer Science 
-
-
 Edited by Taylor West
 
 Based off of a template by Sunwoo Kang, which merged CEEVEE with KARDS from Styleshouts
